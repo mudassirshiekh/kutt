@@ -27,6 +27,7 @@
 - [Contributing](#contributing)
 
 ## Key features
+## By Mudassir Alam
 
 - Created with self-host in mind:
   - Zero configuration needed
